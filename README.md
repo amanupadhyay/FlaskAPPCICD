@@ -20,4 +20,4 @@ python -m coverage xml
 
 ### Notes:
 SQLlite DB in instance folder
-If you clean the whole DB, you'll need to register a user first to login.
+If you clean the whole DB, you'll need to register a user first to login
